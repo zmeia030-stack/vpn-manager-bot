@@ -1,0 +1,5 @@
+aiogram==3.31.0
+aiosqlite==0.22.1
+httpx==0.28.1
+pydantic-settings==2.14.0
+qrcode[pil]==8.2
